@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1685936871 source:c:\users\isabe\onedrive\햞ea de trabalho\teste\lista_sequencial1.c
+	<stdio.h>
+	<stdlib.h>
+	"lista_sequencial.h"
+
+1685936548 c:\users\isabe\onedrive\햞ea de trabalho\teste\lista_sequencial.h
+
+1685936491 source:c:\users\isabe\onedrive\햞ea de trabalho\teste\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista_sequencial.h"
+
+1685936872 source:c:\users\isabe\onedrive\햞ea de trabalho\eita inferno\teste\lista_sequencial1.c
+	<stdio.h>
+	<stdlib.h>
+	"lista_sequencial.h"
+
+1685936550 c:\users\isabe\onedrive\햞ea de trabalho\eita inferno\teste\lista_sequencial.h
+
+1685936492 source:c:\users\isabe\onedrive\햞ea de trabalho\eita inferno\teste\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista_sequencial.h"
+
